@@ -1,6 +1,10 @@
 # smart_webcam
 Multiple object detection using pre trained model in TensorFlow.js
 
+- [Code](https://glitch.com/edit/#!/patch-sparkly-force)
+- [Live Site](https://patch-sparkly-force.glitch.me)
+
+
 ensorFlow.js Boilerplate
 This very simple skeleton simply loads in TensorFlow.js and prints out the version once loaded to the DOM.
 
